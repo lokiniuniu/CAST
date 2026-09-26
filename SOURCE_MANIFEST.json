@@ -1,0 +1,40 @@
+{
+  "snapshot": "CAST Matrix source, extracted 2026-09-26",
+  "origin": "light-interaction-research working tree (no Git commits at extraction)",
+  "upstream": {
+    "matrix_game": "71c3cd7f741311f8100f6cf9cde942b6c1378d11",
+    "light_interaction": "a5825201c1251628deae5d3196e207a41f16e23c"
+  },
+  "source_files": {
+    "src/interaction_accel/methods/proposed/command_oriented_ray_qk_product_attention.py": "097236d0d05c2eb5a99c532efc0269a563137c23e5d717c32e7a1974924285da",
+    "src/interaction_accel/methods/proposed/command_phase_ray_worldline_attention.py": "4dd4f094888dcd1841dfad4c9e659563766ff5750dffdbf92fda0c8089a5bb89",
+    "src/interaction_accel/methods/proposed/control_response_cwca_attention.py": "9b3c7a038dd958c43c58927326599c68c04820688e02a2fa6b41b50287b3c832",
+    "src/interaction_accel/methods/proposed/control_response_tile_kernel.py": "fedbc911cb13818d1274270f7dce52b46fc2b5179c7841d3182e989e0bf9aaec",
+    "src/interaction_accel/methods/proposed/fc_pasm_swap_routing.py": "f285b8aa26aa939ded07e1d43dbf60e0a8b7c5ec485ef22bb1af7270e168efcf",
+    "src/interaction_accel/methods/proposed/independent_ray_geodesic_attention.py": "ee715a280c8db139c55b9378f4e24923885f934b5919860e7cc233691de7b836",
+    "src/interaction_accel/methods/proposed/li_budget_matched_memory.py": "d77bac6b63e5bd8736c1ae559e285709cb0d19ac4d0d05eb395df8e384fa4eaf",
+    "src/interaction_accel/methods/proposed/matrix_control_barycentric_pair_kernel.py": "767ac6d05cec9b5494d6892bffb525569659e8bf249f467f4b746d9d7eb3c752",
+    "src/interaction_accel/methods/proposed/matrix_cross_attention_kv_cache.py": "35758712bbe2bf215d27b0d2ccdd575f62a3eac64a862bde27aefdda3a93bbe1",
+    "src/interaction_accel/methods/proposed/matrix_curvature_phase_frame_weave.py": "7211e1f3aa90426d08fd4930863d651c309d1e8e75974c8b49e8f097236bc1a6",
+    "src/interaction_accel/methods/proposed/matrix_deferred_vae_streaming_video.py": "4cf46e5d0e2a1e85c65c8153cac8e0e571593f4717ee221fffc2658641ec0f97",
+    "src/interaction_accel/methods/proposed/matrix_exact_streaming_single_copy_video.py": "0c3682168b7540538abaa1c60ca4bcb40aa54eb036d6901468bfa9f550b7e25b",
+    "src/interaction_accel/methods/proposed/matrix_fc_pasm_kernel.py": "3e1d6df390be3e8254dd622a90f89ab8999ab073be810faa2549e23781c69c0a",
+    "src/interaction_accel/methods/proposed/matrix_jit_official_semantics.py": "afee859bf55a5dd723927bfca64e666d79fb77e45867dd241ecd5fc4398e6ece",
+    "src/interaction_accel/methods/proposed/matrix_jit_spatial_acceleration.py": "9d63604c32e90a48b8ae765e3387648cb745985722c87ec4df7ddf6e1aaf2f6c",
+    "src/interaction_accel/methods/proposed/matrix_mod5_gather_adaln_kernel.py": "f3de66fcbfcc10fd604b44ea36d19f03728ba46c5988d83b9ebf61aaee33b840",
+    "src/interaction_accel/methods/proposed/matrix_native_rope_phase_cache.py": "bdfa912dfec3c6e9a0ef905d267ca269a1444c429ce42e585c02ceac91034eee",
+    "src/interaction_accel/methods/proposed/matrix_pinned_async_streaming_single_copy_video.py": "c854baa1d3350971efbd9e16b0d40b279850614f693c37fdbb8e1b2bbe100737",
+    "src/interaction_accel/methods/proposed/matrix_shared_int8_qkv.py": "13e7d2af85901226204352374eedacb781f5edca7e972acb334ba068f62f707b",
+    "src/interaction_accel/methods/proposed/matrix_single_copy_video.py": "be2b4c2ad145fd49657987adec167baf5031526af1cd48192451efa350559feb",
+    "src/interaction_accel/methods/proposed/matrix_vae_aot_warmup.py": "60374a0505a3dce693bcfc90277f573c60f4d4663970c09f7ef1822ed22f4c9b",
+    "src/interaction_accel/methods/proposed/matrix_world_spectral_residual.py": "21753b1a5f7af0466cf58aab4a0aab0a9db46e0651b080c5cf656315124b15c3",
+    "src/interaction_accel/methods/proposed/plucker_worldline_attention.py": "ab9145bb1fdd658f60ddd83d25698f8280e8343119b6659ae9f533bf657881ad",
+    "src/interaction_accel/methods/proposed/qk_uncertainty_tangent_attention.py": "f578266b5f9110599afcd15d10ebe4d5549fdd2775573cdddadceb4df90dbdc9",
+    "src/interaction_accel/methods/proposed/reciprocal_degree_attention.py": "1772a0d2225d118a11bcc8ce650b62fe0a6a621e7413d515d84bb16826f05cb6",
+    "src/interaction_accel/methods/proposed/reciprocal_joint_attention.py": "67bbe49ad92db1cf81d1044d565713b0f112bf5e137aea3ff3602c8fe0c94ad8",
+    "src/interaction_accel/methods/proposed/reciprocal_paired_memory.py": "3ef9cf42c690d65bffd9665299242b9bb272659f23d92bce44ff85f49e97a972",
+    "src/interaction_accel/methods/proposed/reciprocal_ray_geodesic_attention.py": "b70d881096653a4d6b829a8083745fba8fbd1a740cb0fedacfddcafdd611e0e0",
+    "configs/cast_matrix_candidate.json": "6f0a081b3c95d045d82b7fdb42b7665603f8f115b1d861187ac2728f29649ce8",
+    "LICENSE": "5ead79796bf605b33d56cf632b47066ec7d2843893d5865cbfdbefbc5713c628"
+  }
+}

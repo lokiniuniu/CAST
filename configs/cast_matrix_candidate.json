@@ -1,0 +1,17 @@
+[
+  {
+    "id": "matrix_li_current_best_single_module_swap",
+    "method": "Released Light Interaction with exactly one current-best Matrix module replacement.",
+    "control_primitive": "worldmark_manifest_action",
+    "replay_mode": "trajectory_scheduler_resolved_phase",
+    "orbit_disable_replay": true,
+    "max_remote_atoms": 4,
+    "reciprocal_memory_route": false,
+    "aggressive_visual_sparse": true,
+    "activation_residual_fill": false,
+    "sparse_topk_ratio": 0.2,
+    "geometry_guard_ratio": 1.0,
+    "route_expand_chunk": 1,
+    "warmup_remote_atoms": 4
+  }
+]
