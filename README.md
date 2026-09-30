@@ -1,4 +1,5 @@
 # CAST: Reconstruction-Coupled Acceleration of Interactive World Models
+[📄 Paper (arXiv)](https://arxiv.org/abs/2609.34144)
 
 ### Training-free acceleration for interactive video generation
 
